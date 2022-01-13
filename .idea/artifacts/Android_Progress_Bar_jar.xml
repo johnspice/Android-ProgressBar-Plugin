@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Android Progress Bar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Android_Progress_Bar_jar</output-path>
+    <root id="archive" name="Android Progress Bar.jar">
+      <element id="module-output" name="Android Progress Bar" />
+      <element id="module-source" name="Android Progress Bar" />
+    </root>
+  </artifact>
+</component>
