@@ -1,17 +1,21 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
-  <name>Android Robot progresBar</name>
+  <id>com.gabriel.lopez</id>
+  <name>Android ProgresBar</name>
   <version>1.0</version>
-  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <vendor email="troyasoft1642@gmail.com" url="https://github.com/johnspice">J. Gabriel L. H.</vendor>
 
   <description><![CDATA[
-      Enter short description for your plugin here.<br>
-      <em>most HTML tags may be used</em>
+      Android ProgressBar plugin para Android Studio anima la barra de progreso
+       <br>
+       <br>
+       DEMO:
+       <br>
+      <img src="https://i.imgur.com/uHowYNB.gif" title="AndroidBardemo" />
+
     ]]></description>
 
   <change-notes><![CDATA[
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>
+        <em>1.0 Primer Version para android studio
     ]]>
   </change-notes>
 
